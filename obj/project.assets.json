@@ -13,21 +13,19 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Source\\repos\\examplerepo\\examplerepo.csproj",
+      "projectUniqueName": "C:\\Users\\Clarkus\\Documents\\MIS\\source\\repos\\testrepo\\examplerepo\\examplerepo.csproj",
       "projectName": "examplerepo",
-      "projectPath": "C:\\Source\\repos\\examplerepo\\examplerepo.csproj",
+      "projectPath": "C:\\Users\\Clarkus\\Documents\\MIS\\source\\repos\\testrepo\\examplerepo\\examplerepo.csproj",
       "packagesPath": "C:\\Users\\Clarkus\\.nuget\\packages\\",
-      "outputPath": "C:\\Source\\repos\\examplerepo\\obj\\",
+      "outputPath": "C:\\Users\\Clarkus\\Documents\\MIS\\source\\repos\\testrepo\\examplerepo\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Clarkus\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Users\\Clarkus\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net5.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {

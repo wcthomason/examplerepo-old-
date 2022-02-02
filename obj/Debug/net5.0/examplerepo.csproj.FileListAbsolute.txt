@@ -1,0 +1,16 @@
+C:\Users\Clarkus\Documents\MIS\source\repos\testrepo\examplerepo\bin\Debug\net5.0\examplerepo.exe
+C:\Users\Clarkus\Documents\MIS\source\repos\testrepo\examplerepo\bin\Debug\net5.0\examplerepo.deps.json
+C:\Users\Clarkus\Documents\MIS\source\repos\testrepo\examplerepo\bin\Debug\net5.0\examplerepo.runtimeconfig.json
+C:\Users\Clarkus\Documents\MIS\source\repos\testrepo\examplerepo\bin\Debug\net5.0\examplerepo.runtimeconfig.dev.json
+C:\Users\Clarkus\Documents\MIS\source\repos\testrepo\examplerepo\bin\Debug\net5.0\examplerepo.dll
+C:\Users\Clarkus\Documents\MIS\source\repos\testrepo\examplerepo\bin\Debug\net5.0\ref\examplerepo.dll
+C:\Users\Clarkus\Documents\MIS\source\repos\testrepo\examplerepo\bin\Debug\net5.0\examplerepo.pdb
+C:\Users\Clarkus\Documents\MIS\source\repos\testrepo\examplerepo\obj\Debug\net5.0\examplerepo.csproj.AssemblyReference.cache
+C:\Users\Clarkus\Documents\MIS\source\repos\testrepo\examplerepo\obj\Debug\net5.0\examplerepo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Clarkus\Documents\MIS\source\repos\testrepo\examplerepo\obj\Debug\net5.0\examplerepo.AssemblyInfoInputs.cache
+C:\Users\Clarkus\Documents\MIS\source\repos\testrepo\examplerepo\obj\Debug\net5.0\examplerepo.AssemblyInfo.cs
+C:\Users\Clarkus\Documents\MIS\source\repos\testrepo\examplerepo\obj\Debug\net5.0\examplerepo.csproj.CoreCompileInputs.cache
+C:\Users\Clarkus\Documents\MIS\source\repos\testrepo\examplerepo\obj\Debug\net5.0\examplerepo.dll
+C:\Users\Clarkus\Documents\MIS\source\repos\testrepo\examplerepo\obj\Debug\net5.0\ref\examplerepo.dll
+C:\Users\Clarkus\Documents\MIS\source\repos\testrepo\examplerepo\obj\Debug\net5.0\examplerepo.pdb
+C:\Users\Clarkus\Documents\MIS\source\repos\testrepo\examplerepo\obj\Debug\net5.0\examplerepo.genruntimeconfig.cache
