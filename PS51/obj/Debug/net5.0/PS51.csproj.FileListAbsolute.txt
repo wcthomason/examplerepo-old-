@@ -1,0 +1,16 @@
+C:\Users\Clarkus\Documents\MIS\source\repos\examplerepo\PS51\bin\Debug\net5.0\PS51.exe
+C:\Users\Clarkus\Documents\MIS\source\repos\examplerepo\PS51\bin\Debug\net5.0\PS51.deps.json
+C:\Users\Clarkus\Documents\MIS\source\repos\examplerepo\PS51\bin\Debug\net5.0\PS51.runtimeconfig.json
+C:\Users\Clarkus\Documents\MIS\source\repos\examplerepo\PS51\bin\Debug\net5.0\PS51.runtimeconfig.dev.json
+C:\Users\Clarkus\Documents\MIS\source\repos\examplerepo\PS51\bin\Debug\net5.0\PS51.dll
+C:\Users\Clarkus\Documents\MIS\source\repos\examplerepo\PS51\bin\Debug\net5.0\ref\PS51.dll
+C:\Users\Clarkus\Documents\MIS\source\repos\examplerepo\PS51\bin\Debug\net5.0\PS51.pdb
+C:\Users\Clarkus\Documents\MIS\source\repos\examplerepo\PS51\obj\Debug\net5.0\PS51.csproj.AssemblyReference.cache
+C:\Users\Clarkus\Documents\MIS\source\repos\examplerepo\PS51\obj\Debug\net5.0\PS51.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Clarkus\Documents\MIS\source\repos\examplerepo\PS51\obj\Debug\net5.0\PS51.AssemblyInfoInputs.cache
+C:\Users\Clarkus\Documents\MIS\source\repos\examplerepo\PS51\obj\Debug\net5.0\PS51.AssemblyInfo.cs
+C:\Users\Clarkus\Documents\MIS\source\repos\examplerepo\PS51\obj\Debug\net5.0\PS51.csproj.CoreCompileInputs.cache
+C:\Users\Clarkus\Documents\MIS\source\repos\examplerepo\PS51\obj\Debug\net5.0\PS51.dll
+C:\Users\Clarkus\Documents\MIS\source\repos\examplerepo\PS51\obj\Debug\net5.0\ref\PS51.dll
+C:\Users\Clarkus\Documents\MIS\source\repos\examplerepo\PS51\obj\Debug\net5.0\PS51.pdb
+C:\Users\Clarkus\Documents\MIS\source\repos\examplerepo\PS51\obj\Debug\net5.0\PS51.genruntimeconfig.cache
